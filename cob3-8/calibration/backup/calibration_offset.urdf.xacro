@@ -87,7 +87,7 @@
 	<property name="offset_head_axis_ref" value="0.012"/>
 
 	<!-- arm reference positions | used as calibration_rising for arm chain-->
-	<property name="offset_arm_1_ref" value="0.0"/>
+	<property name="offset_arm_1_ref" value="-0.35"/>
 	<property name="offset_arm_2_ref" value="0.0"/>
 	<property name="offset_arm_3_ref" value="0.0"/>
 	<property name="offset_arm_4_ref" value="0.0"/>
