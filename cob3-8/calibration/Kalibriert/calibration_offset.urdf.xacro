@@ -54,12 +54,12 @@
 	<property name="offset_head_yaw" value="0.0"/>
 	
 	<!-- arm mount positions | relative to base_link -->
-	<property name="offset_arm_x" value="-0.02799011"/>
-	<property name="offset_arm_y" value="-0.02751182"/>
-	<property name="offset_arm_z" value="0.01318201"/>
-	<property name="offset_arm_roll" value="-0.0593041496"/>
-	<property name="offset_arm_pitch" value="0.0581638932"/>
-	<property name="offset_arm_yaw" value="0.0866639282"/>
+	<property name="offset_arm_x" value="-0.02252369"/>
+	<property name="offset_arm_y" value="-0.02726688"/>
+	<property name="offset_arm_z" value="0.01412881"/>
+	<property name="offset_arm_roll" value="0.0443086338"/>
+	<property name="offset_arm_pitch" value="0.0394114782"/>
+	<property name="offset_arm_yaw" value="-0.0710668634"/>
 	
 	<!-- pg70 mount positions | relative to arm_7_link -->
 	<property name="offset_pg70_x" value="0.0"/>
@@ -111,11 +111,10 @@
 	<property name="offset_cam_reference_yaw" value="9.99587958628e-06"/>
 
 	<!-- cam3d | handeye calibration | relative to cam_reference_link -->
-	<property name="offset_cam3d_x" value="0.0"/>
+	<property name="offset_cam3d_x" value="-0.010456"/>
 	<property name="offset_cam3d_y" value="0.0"/>
-	<property name="offset_cam3d_z" value="-0.0001171"/>
+	<property name="offset_cam3d_z" value="0.00030626"/>
 	<property name="offset_cam3d_roll" value="0.0"/>
-	<!--property name="offset_cam3d_roll" value="0.0187974516"/-->
-	<property name="offset_cam3d_pitch" value="-0.0105881644"/>
-	<property name="offset_cam3d_yaw" value="-0.0162674962"/>
+	<property name="offset_cam3d_pitch" value="0.0"/>
+	<property name="offset_cam3d_yaw" value="0.0"/>
 </robot>
